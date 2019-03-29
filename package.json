@@ -1,0 +1,10 @@
+{
+	"name": "santiaguf-modejs",
+	"author": {
+		"name": "Santiago bernal",
+		"email": "exactlimon@gmail.com",
+		"url": "https://twitter.com/santiaguf"
+	},
+	"version": "1.0.0",
+	"description": "Demo package in NodeJs"
+}
